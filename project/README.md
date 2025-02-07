@@ -9,7 +9,8 @@ A comprehensive portfolio Profit and Loss (PnL) dashboard for options trading, b
 - Interactive performance charts
 - WebSocket integration for live updates
 - Modern, responsive UI with dark theme
-- Production-ready code structure
+- Production-ready code structure built and designed by Yashas
+-COMING: TRADE REAL TIME , COMPLETE KYC AND REGISTER WITH OUR PLATFORM AND TRACK YOUR TRADES REAL TIME, FASTER WITH MARKETDATA APP INTEGRATION.
 
 ## Prerequisites
 
