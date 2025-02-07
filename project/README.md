@@ -102,6 +102,7 @@ Coming soon:
 - Frontend tests with Jest and React Testing Library
 - Backend API tests
 - Integration tests
+-Im working on complete integration of auth system and hosting to make this run and setup a demat account get the api and then it will be a platform where users can register officialy and trade , they will need to do KYC, integrating that system is easy, I have done it before.
 
 ## Credits 
 
